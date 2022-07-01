@@ -1,7 +1,7 @@
 ### 🖐🏻 Hello!	I’m **Gustavo Martins**
 - 💻 I'm Computer Science student
 - 🏛 in Federal Technological University of Paraná
-- 📓 Currently learning C, C++ and Javascript
+- 📓 Currently learning C, C++, SQL, Javascript, CSS and HTML
 - 🧪 Ask me about Lamia
 
 <div>
