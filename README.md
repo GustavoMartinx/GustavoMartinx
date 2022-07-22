@@ -3,6 +3,7 @@
 - 🏛 in Federal Technological University of Paraná
 - 📓 Currently learning C, C++, SQL, Javascript, CSS and HTML
 - 🧪 Ask me about Lamia
+- 💧 and drink water
 
 <div>
   <a href="https://github.com/GustavoMartinx">
